@@ -1,0 +1,3 @@
+C:/Users/Zver/Desktop/ВШЭ/АВС/HW9-Gakal/AVS-ringBuf/cmake-build-debug/CMakeFiles/AVS_ringBuf.dir
+C:/Users/Zver/Desktop/ВШЭ/АВС/HW9-Gakal/AVS-ringBuf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zver/Desktop/ВШЭ/АВС/HW9-Gakal/AVS-ringBuf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

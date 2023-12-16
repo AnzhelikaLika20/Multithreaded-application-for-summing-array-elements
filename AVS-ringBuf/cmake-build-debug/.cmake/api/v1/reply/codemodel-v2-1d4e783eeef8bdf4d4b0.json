@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AVS_ringBuf",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AVS_ringBuf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AVS_ringBuf-Debug-2581a9024753517b74c0.json",
+					"name" : "AVS_ringBuf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Zver/Desktop/\u0412\u0428\u042d/\u0410\u0412\u0421/HW9-Gakal/AVS-ringBuf/cmake-build-debug",
+		"source" : "C:/Users/Zver/Desktop/\u0412\u0428\u042d/\u0410\u0412\u0421/HW9-Gakal/AVS-ringBuf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
